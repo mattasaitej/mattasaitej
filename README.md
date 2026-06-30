@@ -23,7 +23,7 @@ class SaitejMatta:
         self.current_project = "Retail Supply Chain Analytics Project"
 ```
 
-I bring an engineer's lens to data — diagnosing systems, tracing root causes, and modeling degradation and risk rather than just reporting numbers. My work sits at the overlap of **rotating equipment reliability** and **supply chain performance analytics**.
+I bring an engineer's lens to data - diagnosing systems, tracing root causes, and modeling degradation and risk rather than just reporting numbers. My work sits at the overlap of **rotating equipment reliability** and **supply chain performance analytics**.
 
 <br/>
 
@@ -34,7 +34,7 @@ I bring an engineer's lens to data — diagnosing systems, tracing root causes, 
 <td width="100%">
 
 ### 📦 Retail Supply Chain Analytics Project
-End-to-end analysis of a 180K+ order retail supply chain dataset — covering data cleaning, sales/revenue/profit EDA, discount and customer segmentation analysis, and logistics/geographic performance. Surfaces insights on late delivery risk, margin erosion from discounting, and regional fulfillment bottlenecks.
+End-to-end analysis of a 180K+ order retail supply chain dataset - covering data cleaning, sales/revenue/profit EDA, discount and customer segmentation analysis, and logistics/geographic performance. Surfaces insights on late delivery risk, margin erosion from discounting, and regional fulfillment bottlenecks.
 
 </td>
 </tr>
@@ -42,7 +42,7 @@ End-to-end analysis of a 180K+ order retail supply chain dataset — covering da
 <td width="100%">
 
 ### 🔩 Mechanical Seal Condition Monitoring & RUL Trend Analysis
-Condition monitoring and **Remaining Useful Life (RUL)** trend analysis for mechanical seals — combining mechanical engineering domain knowledge with degradation-pattern analytics to anticipate failure before it happens.
+Condition monitoring and **Remaining Useful Life (RUL)** trend analysis for mechanical seals - combining mechanical engineering domain knowledge with degradation-pattern analytics to anticipate failure before it happens.
 
 </td>
 </tr>
@@ -87,14 +87,9 @@ Engineering & CAD/Simulation
 </td>
 </tr>
 </table>
-<br/>br/>
+<br/>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mattasaitej&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattasaitej&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattasaitej&theme=tokyonight&hide_border=true" />
