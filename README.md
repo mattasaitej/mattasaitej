@@ -89,13 +89,7 @@ Engineering & CAD/Simulation
 </table>
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=mattasaitej&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
 
 ## 📫 Connect
 
